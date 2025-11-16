@@ -1,0 +1,176 @@
+https://the-internet.herokuapp.com/geolocation
+
+
+
+
+From the https://the-internet.herokuapp.com/ homepage select Gelocation.  This should then bring up the geolocation page.
+on this page select the "Where am I" button.  Wait about 6 seconds then select teh link "See it on Google".  This should  then
+open the location in google maps in a new webpage.
+
+Now lets code the automation for the key presses page.   From From the https://the-internet.herokuapp.com/ homepage select the Kep presses link, this 
+should take us to the key presses page.  On this page, select the box first then once the box has been selected type the words 
+"Automation is Fun!"  then after a few seconds lets go back to the home page.  I want to make this the 2nd part of the demo (demo 2) 
+
+
+
+
+"Welcome, traveler, to the Realm of Eldoria.\n\n"
+"Long have the bards sung of the Misty Mountains, where an ancient dragon slumbers upon a treasure vast enough to sway the fate of kingdoms. "
+"Few who sought the beast have ever returned, and those who did spoke only in broken whispers of fire, shadow, and unending dread.\n\n"
+"Your journey begins now. To survive what lies ahead, you must prepare wisely—every choice may shape your destiny.\n\n"
+"How will you begin your quest?"
+
+
+
+"The forest path breaks suddenly at the edge of a wide, furious river. "
+"The current churns white with foam, crashing against jagged rocks that jut like teeth from the water’s surface. "
+"Driftwood hurtles downstream at frightening speed, vanishing into the mist that clings low over the torrent. "
+"The roar is deafening, drowning out every other sound of the wild. Crossing here will not be simple—one wrong step "
+"and the river would claim you in an instant. " \n\n
+"How will you cross the raging water?"
+
+
+
+"The trail climbs sharply, each step dragging at your legs as loose stones skitter back down the slope. "
+"At last you reach the crest—and freeze. Just beyond, a band of goblins crowds together, their wiry frames hunched and restless. "
+"They snarl and shove at one another over some scavenged prize, a bundle of rags glinting faintly in the firelight of their crude torches. "
+"Their guttural voices carry on the wind, harsh and grating, as the argument swells toward violence. "
+"They haven’t noticed you… not yet."
+
+
+"You grip the rough bark and climb, higher and higher, until the forest spreads out beneath you in a sea of green shadow. "
+"The branches sway gently under your weight, carrying the scent of pine and the whisper of wind. "
+"From your perch, the world reveals its secrets: far below, a narrow path glows faintly, winding toward what looks like a hidden glade "
+"where light pools unnaturally bright among the trees. Beyond that, at the edge of your vision, a faint shimmer dances against the stone cliffs— "
+"perhaps the mouth of a cave, masked by illusion or mist. " \n\n
+"Both call to you, but only one path can be taken. Which will you choose?"
+
+
+"You steady yourself among the branches and wait, letting the forest breathe around you. "
+"Below, a pair of deer pick their way through the undergrowth, pausing now and then to lift their heads at imagined dangers. "
+"Birdsong drifts through the canopy, sharp and sweet, carrying across the hush of leaves stirred by the wind. "
+"For a time, the world feels calm, almost untouched by the perils of your journey. "
+"But the path ahead still calls, and at last you gather your resolve and choose the way forward."
+
+
+
+"The trail of animal tracks winds into a small clearing, where the remnants of a long-abandoned hunter’s camp lie scattered. "
+"A tattered canvas tent slumps against a fallen log, its edges frayed and mottled with moss. "
+"Rusting cooking pots and a broken iron skillet lie half-buried in the undergrowth, while a cluster of arrow shafts leans precariously against a tree. "
+"A faint smell of smoke lingers in the air, mingled with damp earth, hinting at meals long past. "
+"Here and there, footprints and claw marks suggest the place has not been entirely forgotten—wild creatures still roam these grounds. " \n\n 
+"Despite the decay, the camp may still hold something useful for your journey: a sharpened knife, a coil of rope, or even a discarded cloak that could protect against the chill. "
+"Every piece of the camp tells a story, whispering both caution and opportunity."
+
+
+
+
+"A narrow, winding passage leads you into a hidden glade, where sunlight filters through the leaves and dances across the soft grass. The air hums with quiet energy, as if the forest itself is holding its breath. "
+"Every flower, stone, and blade of grass seems alive, sparkling faintly in the dappled light, and for a moment, the world feels enchanted and still."
+
+
+
+
+
+"You move cautiously for the first hour, each step deliberate. The air grows cooler, carrying the scent of old stone and distant death, 
+and the ground beneath your boots becomes jagged and uneven. Shadows stretch long across the crags, hinting at unseen crevices and sudden drops."
+
+2
+"Hours of steep ascent leave your legs burning and your breath ragged. The dense forest thins, revealing gnarled, stunted trees clinging stubbornly to the mountainside. "
+"Rocks scrape your hands and feet as you climb, and every step feels heavier than the last, the mountain testing your resolve. "
+3
+"After several grueling hours, the path narrows to a precarious ledge, buffeted by biting wind that whips at your cloak and lashes your face. "
+"Each footfall must be measured carefully—the sheer drop below is a constant reminder that one misstep could be fatal. "
+"The mountain rises above you, jagged peaks shrouded in mist, and somewhere beyond, you sense the presence of your ultimate challenge. "
+
+
+
+
+"At last, you reach the jagged maw of a cavern, its gaping entrance carved into the mountainside like the teeth of some ancient beast. "
+"A thin veil of smoke curls from within, carrying the acrid scent of fire and charred stone. "
+"The wind whistles through the opening, carrying with it a low, resonant growl that makes your chest tighten. "
+"This is no ordinary cave. This is the dragon’s lair, and every instinct screams that what lies within is both magnificent and deadly. "
+
+
+"At last, you stand before the gaping maw of a cavern carved into the mountainside. 
+A thin column of smoke drifts lazily from its depths, carrying the acrid tang of fire and brimstone. 
+Shadows shift unnaturally along the jagged rocks framing the entrance, and the faint glow of molten light flickers deep within. 
+Every instinct tells you that this is no ordinary cave—this is the lair of the dragon, ancient and formidable, and your greatest trial yet."
+
+
+
+
+"You step cautiously into the cavern, the air heavy with heat and the acrid tang of sulfur. "
+
+"Shadows flicker across jagged walls as the faint glow of molten gold reflects from piles stacked impossibly high. "
+"The cavern floor trembles with the dragon’s slow, rhythmic breathing. " 
+
+"There, coiled atop its treasure, lies the beast itself. Scales like molten bronze catch the flickering light, each one etched with the scars of battles long past. "
+"Massive wings fold over its body, tail curled like a living whip around the hoard. With each exhale, smoke drifts from its nostrils, rising in lazy tendrils as the dragon snores, the sound a deep, resonant rumble that shakes the stones beneath your feet. "
+"Its eyes, when half-lidded in sleep, gleam with the cunning of centuries—proud, ancient, and terrifying in its majesty. "
+
+"Every instinct screams caution: one wrong move, and the fire it breathes could consume you. Yet the treasure, and the challenge itself, lies within reach. "
+"The moment you have journeyed for has come."
+
+
+
+"Deep within the cavern, the As the dragon slumbers atop a towering mountain of gold, you see thick smoke coming from the huge beasts nostirils.   each coin and gem glittering in the flickering torchlight. 
+Thick smoke coils lazily from its nostrils, curling upward like ghostly serpents, while the ground beneath your feet vibrates with the heat radiating from its massive body. 
+The air smells of fire and molten metal, and every instinct warns you that even the slightest misstep could awaken the beast.\n\n"
+"You must decide: how will you approach this ancient, sleeping terror?"
+
+
+
+
+"🏆 Victorious, you lift the dragon’s treasure from the cavern, the weight of gold and jewels heavy in your hands but light in your heart. "
+"The journey back through the forest feels transformed—the trees seem to part for you, the sunlight warm on your face, and the air carries a quiet approval, as if the land itself honors your courage and cunning." 
+
+"At last, you return to Eldor. The wizard awaits at the gates, his eyes twinkling with pride. "
+"Ah, you’ve returned! Your bravery and wisdom have carried you through trials few could endure,' he says, his voice rich with approval. "
+
+"The villagers gather, their cheers echoing through the streets. Children run to catch a glimpse of the hero who faced the dragon, while elders nod in respect, telling tales of your daring and cleverness that will endure for generations. "
+"The blacksmith gives you a big grin and grabs you into a giant bear hug"
+"The banners of the town flutter in the breeze, shimmering gold in celebration of your triumph.  "
+
+"✨ Congratulations! You have completed your epic quest, and your deeds will be remembered in the songs and stories of Eldoria forever."
+
+
+
+
+
+
+
+       "🏆 Victorious, you clutch the dragon’s treasure and journey back through the forest.\n\n"
+                    "The path feels lighter, as if the land itself honors your courage.\n\n"
+                    "Back in Eldor, the wizard greets you warmly:\n"
+                    "'Ah, you’ve returned! Your bravery and wisdom have served you well.'\n\n"
+                    "The villagers cheer your name, and tales of your deeds spread across the realm.\n\n"
+                    "✨ Congratulations! You completed your epic quest!"
+
+
+
+
+
+
+
+
+Lets add a quest for the amulet of Stillness.  If we use this when we go to the dragon, He will be frozen still!.  
+
+In the wizards hut we can mention the amulet.  The Wizard begins sifting through some contents on a shelf wall behind him.  A salamander slithers across the shelf. He grabs an old dusty bound book with some sort of strange symbol on the front.  He opens the book and starts flipping through the pages.  "Ah here we are! .... the Amulet of Stillness.  It is somewhere in the (place the amulet might be located) When we get to the glade the amulet can begin glowing softly. Cool! 
+
+Lets be able to get wounded on our adventure and be able to use the potion to gain our health and strength back.  Lets have a couple of instances of how to lose our health.  Fighting the goblins, falling into the river, fighting the dragon.
+
+when fighting something (goblins, or the witch, or even dragon) lets have a 50/50 chance to live or die.  One option, you win and the story continues .... or the other option you die, game over.
+
+
+another adventure before the dragon?  A witch in the swamps.  You come across an old shack in the middle of the swamp a glowing faint light inside.  Do you go inside or keep going?
+Inside is an old woman stirring a pot on a fire.  From the looks of the shack there is a cold evil presence here.  She could be a sorcerous or witch.  She looks at you for a few seconds and laughs strangely and says "I know why you are here"  Ask her name, Ask whats in the pot, Attack her, 
+Her name is Ysmera:  She says
+"Names matter little, traveler. I am Ysmera, the shadow in your flame. The forest whispers to me… and I whisper back."
+Some call me witch, others seer, a few—friend. Which I shall be to you depends on what you seek."
+
+
+Leaving the witches shack.  
+The swamp spreads out before you, a tangle of reeds and black water glistening beneath the moonlight. Each step is a careful gamble—the earth shifts treacherously, and unseen things ripple just beneath the surface. Strange cries echo through the mist: frogs, owls, or perhaps something less natural. Hours slip away in the mire, but at last, you stumble onto solid ground. Ahead, the fog parts, revealing a glade bathed in silver light. Fireflies drift lazily above emerald grass, and the oppressive weight of the swamp seems to vanish in an instant. The place feels untouched, sacred, alive with quiet magic.
+
+At the dragon I want to use the amulet.  But I still want the chance the character can die against the dragon.  The amulet can help the hero.  If you try to sneak past the dragon, he wakes up and dies.  If you fight the dragon you have a 50% chance to win or die.  If you talk to him he might like your answers and let you take some gold, or he will become angry at your answers and you will have to fight.  
