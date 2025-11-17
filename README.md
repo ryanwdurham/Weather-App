@@ -32,7 +32,7 @@ A clean and simple Flask web application that provides current weather condition
 - Date information
 
 
-Watch a demo in action here:  https://www.loom.com/share/e75849b424f34593ae142b25f9eafa70
+Watch a demo in action here:  https://www.loom.com/share/973346a653d64bd3bd7ea1a247ebbc02
 
 
 ## 📋 Requirements
