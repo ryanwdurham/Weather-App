@@ -219,20 +219,11 @@ class SearchHistory(db.Model):
 ```
 
 
-## 📄 License
-
-
 ## 🙏 Acknowledgments
 
 - [Open-Meteo](https://open-meteo.com/) - Free weather API
 - [OpenStreetMap Nominatim](https://nominatim.openstreetmap.org/) - Geocoding service
 - Flask community for excellent documentation
 - Weather enthusiasts worldwide 🌍
-
-
-
-## 🌟 Star This Repo
-
-If you find this project useful, please consider giving it a star! ⭐
 
 ---
